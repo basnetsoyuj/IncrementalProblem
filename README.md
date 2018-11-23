@@ -9,12 +9,13 @@ We are given a list of intervals that correspond to when each celebrity comes an
 That is, the interval is closed on the left hand side and open on the right hand side. 
 This just means that the celebrity will be partying on and through the ith hour, but will have left when the jth hour begins. So even if you arrive on dot on the jth hour, you will miss this particular celebrity. 
 Here’s an example: 
-CelebrityComesGoes
-Beyoncé67
-Taylor79
-Brad1011
-Katy1012
-Tom810
-Drake911
-Alicia68
+
+##CelebrityComesGoes
+####Beyoncé67
+####Taylor79
+####Brad1011
+####Katy1012
+####Tom810
+####Drake911
+####Alicia68
 When is the best time to attend the party? That is, which hour should you go to? 
