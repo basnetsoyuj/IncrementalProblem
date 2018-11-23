@@ -11,11 +11,12 @@ This just means that the celebrity will be partying on and through the ith hour,
 Here’s an example: 
 
 ##CelebrityComesGoes
-####Beyoncé67
-####Taylor79
-####Brad1011
-####Katy1012
-####Tom810
-####Drake911
-####Alicia68
+
+Beyoncé67
+Taylor79
+Brad1011
+Katy1012
+Tom810
+Drake911
+Alicia68
 When is the best time to attend the party? That is, which hour should you go to? 
